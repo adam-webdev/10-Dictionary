@@ -1,6 +1,11 @@
 ## Latihan Dictionary pada python membuat program crud sederhana
 ### Repository ini dibuat sebagai tugas kuliah bahasa pemrogramman
 
+#### Requirement
+- pip
+- package tabulate
+______________________
+
 1. Pertama kita buat buat folder `10-Dictionary` dan didalam kita buat file bernama `Latihan1.py` dan `Praktikum.py`.
 
       ![nama folder](img/nama-folder.png)
