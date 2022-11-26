@@ -23,11 +23,11 @@
 
       dan Berikut hasilnya :
 
-      Jika memilih opsi `C = menambah data` maka akan tampil sebagai berikut :
+      Jika memilih opsi `C = Menambah data` maka akan tampil sebagai berikut :
 
       ![hasil](img/praktikum1.png)
 
-      Jika memilih opsi `R = Meliha semua data` maka akan tampil sebagai berikut :
+      Jika memilih opsi `R = Melihat semua data` maka akan tampil sebagai berikut :
 
       ![delete](img/R.png)
 
@@ -48,6 +48,8 @@
 
       ![quit](img/quit.png)
 
+### selesai. seperti itulah program crud sederhana yang kita buat,
 
+[sawer](https://saweria.co/adamwebdev)
 
 
